@@ -1,10 +1,8 @@
 # Predicting-Credit-Risk
 Purpose
 This project was made to build two machine learning models that attempts to predict whether a loan from LendingClub will become high risk or not.
+
 ![Scaled](https://user-images.githubusercontent.com/85588653/139784456-cdb35189-a02b-45bf-96e8-fa39e05d2234.PNG)
-
-
-Scaled Models
 
 Useful Notes
 list_a = ['A', 'B', 'E', 'F', 'G']
