@@ -1,7 +1,8 @@
 # Predicting-Credit-Risk
 Purpose
 This project was made to build two machine learning models that attempts to predict whether a loan from LendingClub will become high risk or not.
-Scaled.png
+![Scaled](https://user-images.githubusercontent.com/85588653/139784456-cdb35189-a02b-45bf-96e8-fa39e05d2234.PNG)
+
 
 Scaled Models
 
@@ -39,12 +40,10 @@ You will be creating and comparing two models on this data: a logistic regressio
 
 Fit a LogisticRegression model and RandomForestClassifier model
 Create a LogisticRegression model, fit it to the data, and print the model's score. Do the same for a RandomForestClassifier. You may choose any starting hyperparameters you like.
-
-Un-Scaled Models
+![Unscaled](https://user-images.githubusercontent.com/85588653/139784623-276383f4-cb43-47a6-927a-6e5ee8579a7f.PNG)
 
 Revisit the Preprocessing: Scale the data
 The data going into these models was never scaled, an important step in preprocessing. Use StandardScaler to scale the training and testing sets. Before re-fitting the LogisticRegression and RandomForestClassifier models on the scaled data, make another prediction about how you think scaling will affect the accuracy of the models.
-
-Scaled Models
+![Scaled](https://user-images.githubusercontent.com/85588653/139784705-291c95d6-e18a-46f8-a4b4-8be99f1430f3.PNG)
 
 References
