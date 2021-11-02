@@ -4,17 +4,7 @@ This project was made to build two machine learning models that attempts to pred
 
 ![Scaled](https://user-images.githubusercontent.com/85588653/139784456-cdb35189-a02b-45bf-96e8-fa39e05d2234.PNG)
 
-Useful Notes
-list_a = ['A', 'B', 'E', 'F', 'G']
-list_b = ['A', 'C', 'E', 'F', 'H', 'I']
 
-set_a = set(list_a)
-set_b = set(list_b)
-
-combine = set_a | set_b
-both = set_a & set_b
-only_a = set_a - set_b
-only_b = set_b - set_a
 Background
 LendingClub is a peer-to-peer lending services company that allows individual investors to partially fund personal loans as well as buy and sell notes backing the loans on a secondary market. LendingClub offers their previous data through an API.
 
