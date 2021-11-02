@@ -44,4 +44,3 @@ Revisit the Preprocessing: Scale the data
 The data going into these models was never scaled, an important step in preprocessing. Use StandardScaler to scale the training and testing sets. Before re-fitting the LogisticRegression and RandomForestClassifier models on the scaled data, make another prediction about how you think scaling will affect the accuracy of the models.
 ![Scaled](https://user-images.githubusercontent.com/85588653/139784705-291c95d6-e18a-46f8-a4b4-8be99f1430f3.PNG)
 
-References
